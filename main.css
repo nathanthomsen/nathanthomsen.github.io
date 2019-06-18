@@ -2,7 +2,7 @@ body {
 background-color: #669933;
 }
 
-div {
+.layer1 {
 margin: auto;
 width: 50%;
 padding: 10px;
