@@ -11,10 +11,7 @@ margin-top: -150px;
 margin-left: -150px;
 }
 
-.layer1 {
-margin: 0;
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%,-50%);
+#inscription {
+font-weight: bold;
+color: gray;
 }
