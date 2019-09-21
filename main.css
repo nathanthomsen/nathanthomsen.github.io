@@ -11,7 +11,7 @@ margin-top: -150px;
 margin-left: -150px;
 }
 
-#inscription.h2 {
+.inscription {
 font-weight: bold;
 color: gray;
 }
